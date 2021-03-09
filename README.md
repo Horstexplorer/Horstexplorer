@@ -7,10 +7,13 @@
 - [ ] think about / cmds
 - [ ] maybe some new features
 - [ ] add more data to d43z1
+- [ ] improve metric output
+- [ ] add additional logging to critical parts
 ##### [Xenia - Backend](https://github.com/Horstexplorer/Xenia-Backend)
 - [ ] fix websocket stability
 - [ ] improve some code things
 - [ ] switch from local auth to CKS, extend that with an oauth module if needed so the backend doesnt do any auth anymore
+- [ ] pass through metrics from bot to grafana
 ##### [Xenia - Frontend](https://github.com/Horstexplorer/Xenia-Frontend)
 - [ ] add guild scoped settings
 - [ ] add channel scoped settings
