@@ -16,8 +16,19 @@
 - [ ] pass through metrics from bot to grafana
 ##### [Xenia - Frontend](https://github.com/Horstexplorer/Xenia-Frontend)
 - [ ] add guild scoped settings
+   - [ ] shows default stats
+   - [ ] license key activation
+   - [ ] language
+   - [ ] guild settings
+   - [ ] prefix
 - [ ] add channel scoped settings
+   - [ ] access mode
+   - [ ] logging
+   - [ ] chatbot
 - [ ] add virtual role settings
+   - [ ] view, create, delete and assign roles
+   - [ ] setup permissions (requires long val magic)
 ##### [CKS](https://github.com/Horstexplorer/)
 - [ ] implement basic functionality
+    - [ ] extend that with an oauth module
 - [ ] upload to github
