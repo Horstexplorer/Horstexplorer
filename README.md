@@ -15,6 +15,6 @@
 - [ ] add guild scoped settings
 - [ ] add channel scoped settings
 - [ ] add virtual role settings
-#### [CKS](https://github.com/Horstexplorer/)
+##### [CKS](https://github.com/Horstexplorer/)
 - [ ] implement basic functionality
 - [ ] upload to github
