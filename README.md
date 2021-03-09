@@ -7,7 +7,7 @@
 - [ ] think about / cmds
 - [ ] maybe some new features
 - [ ] add more data to d43z1
-- [ ] improve metric output
+- [ ] improve metrics output
 - [ ] add additional logging to critical parts
 ##### [Xenia - Backend](https://github.com/Horstexplorer/Xenia-Backend)
 - [ ] fix websocket stability
