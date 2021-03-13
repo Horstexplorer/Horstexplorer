@@ -13,8 +13,8 @@
 - [ ] fix websocket stability
 - [ ] improve some code things
 - [ ] switch from local auth to CKS, extend that with an oauth module if needed so the backend doesnt do any auth anymore
-- [ ] pass through metrics from bot to grafana  
-~~- [ ] add bot list handler from cane~~
+- [ ] pass through metrics from bot to grafana
+- [ ] ~~add bot list handler from cane~~
 ##### [Xenia - Frontend](https://github.com/Horstexplorer/Xenia-Frontend)
 - [ ] add guild scoped settings
    - [ ] shows default stats
